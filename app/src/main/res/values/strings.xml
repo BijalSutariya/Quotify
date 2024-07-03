@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quotify</string>
+    <string name="txt_quotify">QUOTIFY</string>
+    <string name="todo">TODO</string>
+    <string name="txt_next">NEXT</string>
+    <string name="txt_previous">PREVIOUS</string>
+</resources>
